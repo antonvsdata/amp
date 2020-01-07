@@ -4,7 +4,7 @@
 
 **NOTE: This package is outdated, the first public version will be published under a new name. This repo only exists for historical reasons.**
 
-[The link to the new package](github.com/antonvsdata/notame)
+[The link to the new package](https://github.com/antonvsdata/notame)
 
 ### amp - Automated Metabolomics Pipeline
 
