@@ -1,4 +1,12 @@
-## amp - Automated Metabolomics Pipeline
+
+
+# OUTDATED
+
+**NOTE: This package is outdated, the first public version will be published under a new name. This repo only exists for historical reasons.**
+
+[The link to the new package](github.com/antonvsdata/notame)
+
+### amp - Automated Metabolomics Pipeline
 
 This package can be used to analyze preprocessed LC-MS data. The starting point of the analyses conducted by this package is a peak table file, output from e.g. MS-DIAL.
 
